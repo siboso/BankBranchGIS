@@ -11,7 +11,7 @@ Description: This repository contions the whole set of geo-coded bank branches i
 The repository contains following files with the original data files zipped.
 
 - BankBranchFull.7z: the main data for bank branches with coordinates (latitude, longtitude), 227,685 records between 1948 and 2016.
-- Branches_city_year_1990_2016.dta: the summary of bank branches by city and year in each category of bank types, 1900-2016.
+- Branches_city_year_1990_2016.dta: the summary of bank branches by city and year in each category of bank types, 1990-2016.
 
 ## Citation
 Sibo Liu, BankBranchGIS, 2022, GitHub repository, https://github.com/siboso/BankBranchGIS
